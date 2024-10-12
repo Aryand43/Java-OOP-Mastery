@@ -1,6 +1,6 @@
 # Java OOP Mastery
 
-This repository documents my journey to mastering Java's Object-Oriented Programming (OOP) concepts as part of my preparation for the IB Computer Science HL Paper 2 exam and to showcase my Java skills to prospective employers.
+This repository documents my journey to mastering Java's Object-Oriented Programming (OOP) concepts and to showcase my Java skills to prospective employers.
 
 ## Overview
 
@@ -13,10 +13,9 @@ In this repository, you'll find:
 1. **Basic OOP Concepts**: Classes, objects, encapsulation, constructors, and access modifiers.
 2. **Intermediate OOP**: Inheritance, method overriding, polymorphism, and superclasses.
 3. **Advanced OOP**: Abstract classes, interfaces, and polymorphism in action.
-4. **IB CS HL Practice**: Practice questions aimed at preparing for the IB Computer Science HL Paper 2 exam.
 
 ## Goals
-- Achieve proficiency in Java OOP to meet IB grade 7 criteria.
+- Achieve proficiency in Java OOP.
 - Build a solid portfolio of Java skills to demonstrate to employers.
 - Showcase my ability to solve challenging problems using OOP principles in Java.
 
@@ -31,6 +30,5 @@ In this repository, you'll find:
 
 ## Contact
 Feel free to connect if you have questions or suggestions:
-- [LinkedIn](#) (www.linkedin.com/in/aryan-dutt-)
-- [Email](mailto:#) (aryan.dutt43@gmail.com)
-
+- [LinkedIn](www.linkedin.com/in/aryan-dutt-) (www.linkedin.com/in/aryan-dutt-)
+- [Email](mailto:aryan.dutt43@gmail.com) (aryan.dutt43@gmail.com)
