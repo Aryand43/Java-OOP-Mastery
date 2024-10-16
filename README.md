@@ -10,9 +10,10 @@ In this repository, you'll find:
 - Detailed examples of applying abstract classes, interfaces, and real-world object-oriented modeling.
 
 ## Contents
-1. **Basic OOP Concepts**: Classes, objects, encapsulation, constructors, and access modifiers.
+1. **Basic-OOP-Concepts**: Classes, objects, encapsulation, constructors, and access modifiers.
 2. **Intermediate OOP**: Inheritance, method overriding, polymorphism, and superclasses.
 3. **Advanced OOP**: Abstract classes, interfaces, and polymorphism in action.
+4. **Hospital Management System**: Demonstrates abstract classes, inheritance, interfaces, and polymorphism through a hospital staff and patient management simulation.
 
 ## Goals
 - Achieve proficiency in Java OOP.
