@@ -14,6 +14,7 @@ In this repository, you'll find:
 2. **Intermediate OOP**: Inheritance, method overriding, polymorphism, and superclasses.
 3. **Advanced OOP**: Abstract classes, interfaces, and polymorphism in action.
 4. **Hospital Management System**: Demonstrates abstract classes, inheritance, interfaces, and polymorphism through a hospital staff and patient management simulation.
+5. **University Course Management System**: Demonstrates abstract classes, interfaces, and relationships between instructors, students, and courses.
 
 ## Goals
 - Achieve proficiency in Java OOP.
